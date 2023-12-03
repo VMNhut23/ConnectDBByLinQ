@@ -1,0 +1,10 @@
+C:\Users\pc\Music\QLSV2\QLSV2\bin\Debug\QLSV2.exe.config
+C:\Users\pc\Music\QLSV2\QLSV2\bin\Debug\QLSV2.exe
+C:\Users\pc\Music\QLSV2\QLSV2\bin\Debug\QLSV2.pdb
+C:\Users\pc\Music\QLSV2\QLSV2\obj\Debug\QLSV2.csproj.AssemblyReference.cache
+C:\Users\pc\Music\QLSV2\QLSV2\obj\Debug\QLSV2.Form1.resources
+C:\Users\pc\Music\QLSV2\QLSV2\obj\Debug\QLSV2.Properties.Resources.resources
+C:\Users\pc\Music\QLSV2\QLSV2\obj\Debug\QLSV2.csproj.GenerateResource.cache
+C:\Users\pc\Music\QLSV2\QLSV2\obj\Debug\QLSV2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Music\QLSV2\QLSV2\obj\Debug\QLSV2.exe
+C:\Users\pc\Music\QLSV2\QLSV2\obj\Debug\QLSV2.pdb
