@@ -41,5 +41,14 @@ namespace QLSV2
 			db.SubmitChanges();
 			button1_Click(sender, e);
 		}
+
+		private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+		{
+			int i;
+			i = dataGridView1.CurrentRow.Index;
+			textBox1.Text = dataGridView1.Rows[i].Cells[0].Value.ToString();
+			textBox2.Text = dataGridView1.Rows[i].Cells[1].Value.ToString();
+			textBox3.Text = dataGridView1.Rows[i].Cells[2].Value.ToString();
+		}
 	}
 }
